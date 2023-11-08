@@ -20,7 +20,7 @@ export const client: Client = new Client({
 	],
 	presence: {
 		activities: [{
-			name: 'Momentum',
+			name: 'LightSpeed',
 			type: ActivityType.Playing,
 		}],
 		status: 'online',
